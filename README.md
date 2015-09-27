@@ -19,3 +19,8 @@ drwxr-sr-x 5 user user 4096 Sep 24 13:34 ..
 ```
 
 as we see, `file1` gets `777` permissions.
+
+
+**UPDATE**
+
+It seems like the bug is nailed here: https://github.com/gulpjs/gulp/issues/1273#issuecomment-143546762
